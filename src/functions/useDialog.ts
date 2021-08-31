@@ -311,3 +311,4 @@ function toStatus ({ status, closesTo, threshold, thresholdUnit, percentClosed, 
       }
   }
 }
+
